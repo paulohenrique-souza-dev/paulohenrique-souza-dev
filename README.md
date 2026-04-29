@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Sobre mim
+#  Sobre mim
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 | Área                      | Tecnologias                            |
 | ------------------------- | -------------------------------------- |
 | 🎲 Dados & Analytics      | Pandas, PySpark, Databricks, ETL, ELT  |
-| 🐍 Desenvolvimento        | Python, Java, APIs REST, WebServices   |
+|   Desenvolvimento        | Python, Java, APIs REST, WebServices   |
 | 🗄 Banco de Dados         | SQL Server, PostgreSQL, MySQL, MongoDB |
 | ☁️ Cloud & Infraestrutura | Azure, Active Directory, Office 365    |
 | 🔐 Governança & Segurança | ITIL, COBIT, ISO 27001/27002           |
@@ -87,17 +87,17 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" />
-  Backend com Python e Java.
+  Backend com Python e Java, Desenvolvendo APIS e Aplicações WEB e Locais.
 </p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" />
-  Front-End com HTML, CSS e JavaScript.
+  Aplicações de Front-End simples e eficientes com HTML, CSS e JavaScript.
 </p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />
-  APIs REST, SOAP, integrações e automações.
+  Scripts básicos de Js, possuo preferência em Back-End com PY e Java.
 </p>
 
 ---
