@@ -62,23 +62,23 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 ---
 
-## 🧠 Experiência Profissional
+## SKILLS
 
 ### 📊 Dados & Big Data
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" />
-  <strong>Python</strong> para automações e análise de dados com Pandas e Selenium.
+  <strong>Python</strong> para Automações, Análise de Dados, Integrações de Sistemas e APIS.
 </p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="28" />
-  <strong>PySpark & Databricks</strong> para processamento de grandes volumes de dados, ETL e ELT.
+  <strong>PySpark & Databricks</strong> para processamento de grandes volumes de dados, realizando processo de ETL e ELT.
 </p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" />
-  <strong>SQL & Bancos de Dados</strong> utilizando SQL Server, PostgreSQL, MySQL e MongoDB.
+  <strong>SQL & Bancos de Dados</strong> Conhecimento em  SQL Server, PostgreSQL, MySQL e MongoDB.
 </p>
 
 ---
@@ -138,26 +138,11 @@ Experiência em processos relacionados a órgãos públicos, incluindo:
 
 ---
 
-# ✨ Perfil Profissional
 
-<div align="center">
-
-```text
-✔ Analista de Tecnologia
-✔ Desenvolvedor Back-End
-✔ Engenheiro de Dados
-✔ Especialista em Automação
-✔ Banco de Dados & SQL
-✔ Cloud & Infraestrutura
-✔ Inteligência Artificial
-✔ Soluções Corporativas
-```
-
-</div>
 
 ---
 
-# 🚀 Tech Stack
+#  Mais Skills
 
 <div align="center">
 
