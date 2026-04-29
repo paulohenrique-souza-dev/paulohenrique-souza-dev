@@ -4,7 +4,7 @@
 
 ### Python • Java • SQL • Pandas • PySpark • IA 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python+e+Java;Especialista+em+Banco+de+Dados;IA+%7C+LLMs+%7C+Automação;Pandas+%7C+PySpark+%7C+Data+Engineering;Construindo+Projetos+Escaláveis" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python+e+Java;Modelagem+em+Banco+de+Dados;IA+%7C+LLMs+%7C+Automação;Pandas+%7C+PySpark+%7C+Data+Engineering;Construindo+Projetos+Escaláveis" />
 
 </div>
 
