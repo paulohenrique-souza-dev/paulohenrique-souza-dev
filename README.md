@@ -1,8 +1,8 @@
-# 👨‍💻 Paulo Henrique de Souza
+#  Paulo Henrique de Souza
 
 <div align="center">
 
-# 🚀 Desenvolvedor Back-End | IA | Dados | Automação
+#  Desenvolvedor Back-End | IA | Dados | Automação
 
 ### Python • Java • SQL • Pandas • PySpark • LLM • HTML
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Quem sou eu
+## Um Pouco Sobre Mim
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 ---
 
-## 💼 Áreas de Especialização
+## Tecnologias que possuo conhecimento
 
 <div align="center">
 
@@ -221,55 +221,7 @@ Experiência em processos relacionados a órgãos públicos, incluindo:
 
 ---
 
-# 🧠 Especialidades
 
-```text
-✔ Desenvolvimento Back-End
-✔ Integração com Banco de Dados
-✔ Data Engineering
-✔ Machine Learning
-✔ Large Language Models (LLM)
-✔ APIs REST
-✔ SQL Performance
-✔ Automação
-✔ Processamento de Dados
-✔ Chatbots com IA
-```
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Projetos em Destaque
-
-### 🤖 IA e Chatbots
-
-* Integração com modelos LLM
-* Sistemas de conversação
-* Processamento de linguagem natural
-
-### 📊 Engenharia de Dados
-
-* Pipelines com PySpark
-* Processamento de grandes volumes
-* Integração SQL
-
-### 🌐 Desenvolvimento Web
-
-* APIs REST
-* Flask
-* Django
-* Sistemas com autenticação
 
 ---
 
@@ -281,41 +233,3 @@ Experiência em processos relacionados a órgãos públicos, incluindo:
 * Otimização SQL
 * Escalabilidade de aplicações
 
----
-
-# 🌎 Conecte-se comigo
-
-<div align="left">
-
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: [https://linkedin.com/in/seulink](https://linkedin.com/in/seulink)
-🌐 Portfólio: [https://seusite.com](https://seusite.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo e construindo novas soluções
-
-</div>
-
----
-
-# ⚙️ Como usar
-
-1. Copie este README
-2. Vá até seu perfil do GitHub
-3. Abra o repositório com o mesmo nome do seu usuário
-4. Cole este conteúdo no arquivo `README.md`
-5. Substitua `SEU_USUARIO` pelo seu username do GitHub
-6. Atualize email e LinkedIn
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=flat" alt="contador" />
-
-</div>
