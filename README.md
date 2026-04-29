@@ -51,7 +51,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 | Área                      | Tecnologias                            |
 | ------------------------- | -------------------------------------- |
-| 📊 Dados & Analytics      | Pandas, PySpark, Databricks, ETL, ELT  |
+| 🎲 Dados & Analytics      | Pandas, PySpark, Databricks, ETL, ELT  |
 | 🐍 Desenvolvimento        | Python, Java, APIs REST, WebServices   |
 | 🗄 Banco de Dados         | SQL Server, PostgreSQL, MySQL, MongoDB |
 | ☁️ Cloud & Infraestrutura | Azure, Active Directory, Office 365    |
@@ -64,7 +64,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 ## SKILLS
 
-### 📊 Dados e Big Data
+### 🎲 Dados e Big Data
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" />
@@ -140,7 +140,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 ---
 
-### 🗄 Banco de Dados
+### 🗄🎲 Banco de Dados
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" title="MySQL" />
@@ -151,7 +151,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 ---
 
-### 📊 Dados & Engenharia
+### 🎲 Dados & Engenharia
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" title="Pandas" />
