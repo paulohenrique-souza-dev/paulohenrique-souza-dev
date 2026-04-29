@@ -1,10 +1,8 @@
-#  Paulo Henrique de Souza
-
 <div align="center">
 
-#  Desenvolvedor Back-End | IA | Dados | Automação
+#  Desenvolvedor Back-End | Dados | IA | Automação
 
-### Python • Java • SQL • Pandas • PySpark • LLM • HTML
+### Python • Java • SQL • Pandas • PySpark • IA 
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Python+e+Java;Especialista+em+Banco+de+Dados;IA+%7C+LLMs+%7C+Automação;Pandas+%7C+PySpark+%7C+Data+Engineering;Construindo+Projetos+Escaláveis" />
 
@@ -16,13 +14,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Analista+de+Tecnologia;Especialista+em+Dados+e+Back-End;Python+%7C+Java+%7C+SQL+%7C+Big+Data;IA+%7C+Cloud+%7C+Infraestrutura" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Analista+de+TI;Expêriencia+em+Dados+e+Back-End;Python+%7C+Java+%7C+SQL+%7C+Big+Data;IA+%7C+Cloud+%7C+Infraestrutura" />
 
 </div>
 
 ---
 
-## Um Pouco Sobre Mim
+
 
 <div align="center">
 
@@ -223,13 +221,5 @@ Experiência em processos relacionados a órgãos públicos, incluindo:
 
 
 
----
 
-# 📈 Atualmente estudando
-
-* IA Generativa
-* Arquitetura de APIs
-* Data Engineering
-* Otimização SQL
-* Escalabilidade de aplicações
 
