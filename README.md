@@ -64,7 +64,7 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 ## SKILLS
 
-### 📊 Dados & Big Data
+### 📊 Dados e Big Data
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" />
@@ -119,24 +119,6 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
   Infraestrutura, suporte e segurança da informação.
 </p>
 
----
-
-### 🏛 Experiência com Sistemas Governamentais
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NF--e-Consultas-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Receita_Federal-Processos-darkgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Detran-Serviços-red?style=flat-square" />
-</p>
-
-Experiência em processos relacionados a órgãos públicos, incluindo:
-
-* Abertura de empresas
-* NF-e, RPS e documentos fiscais
-* Declarações tributárias
-* Integrações com serviços governamentais
-
----
 
 
 
@@ -202,7 +184,7 @@ Experiência em processos relacionados a órgãos públicos, incluindo:
 
 </div>
 
----
+
 
 
 
