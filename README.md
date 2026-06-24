@@ -51,12 +51,12 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 | Área                      | Tecnologias                            |
 | ------------------------- | -------------------------------------- |
-| 🎲 Dados & Analytics      | Pandas, PySpark, Databricks, ETL, ELT  |
-|   Desenvolvimento        | Python, Java, APIs REST, WebServices   |
-| 🗄 Banco de Dados         | SQL Server, PostgreSQL, MySQL, MongoDB |
-| ☁️ Cloud & Infraestrutura | Azure, Active Directory, Office 365    |
-| 🔐 Governança & Segurança | ITIL, COBIT, ISO 27001/27002           |
-| 🛠 Tecnologia Corporativa | Suporte, Gestão, Integração            |
+| Dados & Analytics      | Pandas, PySpark, Databricks, ETL, ELT  |
+| Desenvolvimento        | Python, Java, APIs REST, WebServices   |
+| Banco de Dados         | SQL Server, PostgreSQL, MySQL, MongoDB |
+| Cloud & Infraestrutura | Azure, Active Directory, Office 365    |
+| Governança & Segurança | ITIL, COBIT, ISO 27001/27002           |
+| Tecnologia Corporativa | Suporte, Gestão, Integração            |
 
 </div>
 
@@ -123,70 +123,6 @@ Atuo no desenvolvimento de soluções tecnológicas voltadas para **automação*
 
 
 ---
-
-#  Mais Skills
-
-<div align="center">
-
-### ⚡ Linguagens & Desenvolvimento
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" title="JavaScript" />
-</p>
-
----
-
-### 🗄🎲 Banco de Dados
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70" title="SQL Server" />
-</p>
-
----
-
-### 🎲 Dados & Engenharia
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="70" title="PySpark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" title="Big Data" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="120" title="Databricks" />
-</p>
-
----
-
-### 🤖 Inteligência Artificial & Automação
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70" title="Machine Learning" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70" title="Deep Learning" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="70" title="Selenium" />
-  <img src="https://img.shields.io/badge/LLM-AI%20Models-4A90E2?style=for-the-badge" />
-</p>
-
----
-
-### ☁️ Cloud, DevOps & Infraestrutura
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70" title="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" title="Linux" />
-</p>
-
-</div>
-
-
-
-
 
 
 
